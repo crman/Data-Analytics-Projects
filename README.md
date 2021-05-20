@@ -4,7 +4,7 @@
   * YouTube Comment Analysis
   * Word Cloud Representation
   * Emoji Analysis
-### 1. Time Series Data Analysis
+### 2. Time Series Data Analysis
   * Alanlysing Closing Price of All Stocks
   * Analysing the Total Volume of Stock Being Traded Each Day
   * Analysing Daily Price Change in Stock
